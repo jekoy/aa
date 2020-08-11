@@ -1,6 +1,6 @@
-# aa
+# myblog
 # 描述
-项目：aa  
+项目：myblog 
 应用：blog  
 基于Django+bootstrap搭建的博客  
 # 启动    
